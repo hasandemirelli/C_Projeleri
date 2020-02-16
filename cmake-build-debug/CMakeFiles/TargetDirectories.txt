@@ -1,3 +1,3 @@
-/cygdrive/c/Users/hasan/OneDrive/BELGELER/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/hasan/OneDrive/BELGELER/C/cmake-build-debug/CMakeFiles/C_Proje.dir
-/cygdrive/c/Users/hasan/OneDrive/BELGELER/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/hasan/OneDrive/BELGELER/C_Projeleri/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/hasan/OneDrive/BELGELER/C_Projeleri/cmake-build-debug/CMakeFiles/C_Proje.dir
+/cygdrive/c/Users/hasan/OneDrive/BELGELER/C_Projeleri/cmake-build-debug/CMakeFiles/edit_cache.dir

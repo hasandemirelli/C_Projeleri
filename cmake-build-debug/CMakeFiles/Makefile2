@@ -44,10 +44,10 @@ RM = /cygdrive/c/Users/hasan/.CLion2019.3/system/cygwin_cmake/bin/cmake.exe -E r
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/hasan/OneDrive/BELGELER/C
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/hasan/OneDrive/BELGELER/C_Projeleri
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/hasan/OneDrive/BELGELER/C/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/hasan/OneDrive/BELGELER/C_Projeleri/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/C_Proje.dir/all:
 	$(MAKE) -f CMakeFiles/C_Proje.dir/build.make CMakeFiles/C_Proje.dir/depend
 	$(MAKE) -f CMakeFiles/C_Proje.dir/build.make CMakeFiles/C_Proje.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/c/Users/hasan/OneDrive/BELGELER/C/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target C_Proje"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/c/Users/hasan/OneDrive/BELGELER/C_Projeleri/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target C_Proje"
 .PHONY : CMakeFiles/C_Proje.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/C_Proje.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hasan/OneDrive/BELGELER/C/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hasan/OneDrive/BELGELER/C_Projeleri/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/C_Proje.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hasan/OneDrive/BELGELER/C/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hasan/OneDrive/BELGELER/C_Projeleri/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/C_Proje.dir/rule
 
 # Convenience name for target.
